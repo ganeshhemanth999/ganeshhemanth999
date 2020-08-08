@@ -11,17 +11,17 @@
 
 ```python
 def skills_of_Ganesh():
-Data Science = ['Feature Engineering',' Feature Selection', 'Model Building' ,'deployment', 'Model Testing']
-Machine Learning= ['Supervised learning' ,' Unsupervised learning Algorithms']
-Databases=[ 'MySQL','MySQL Workbench']
-Bigdata Technologies=[Hadoop, Spark]
-Statistics=[ 'Statistical Features', 'Probability Distributions', 'Hypothesis testing']
-Data Visualization=[ 'Tableau', 'Python', 'Excel']
-languages_with_proficiency = ['Python', 'SQL']
-tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-cloud_architecture = ['heroku','AWS']
-kaggle_competitions = 1
-active_blogger = True
+  Data Science = ['Feature Engineering',' Feature Selection', 'Model Building' ,'deployment', 'Model Testing']
+  Machine Learning= ['Supervised learning' ,' Unsupervised learning Algorithms']
+  Databases=[ 'MySQL','MySQL Workbench']
+  Bigdata Technologies=[Hadoop, Spark]
+  Statistics=[ 'Statistical Features', 'Probability Distributions', 'Hypothesis testing']
+  Data Visualization=[ 'Tableau', 'Python', 'Excel']
+  languages_with_proficiency = ['Python', 'SQL']
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+  cloud_architecture = ['heroku','AWS']
+  kaggle_competitions = 1
+  active_blogger = True
   return ∞
 ```
 

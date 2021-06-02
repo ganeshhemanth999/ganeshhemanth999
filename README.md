@@ -1,9 +1,8 @@
 ## Hey there, I'm Ganesh!
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
-- 🎓 I'm currently pursuing **Post Graduate Program In Data Science** from **Imarticus Learning**.
+- 🎓 I'm currently working as **Data Scientist** in**Waycool**.
 - 💻 I have one year experience **DATA ANALYST** with**Sagacious Research**
-- 💻 I'm looking for an **Job** in **Data Science** domain.
 - 🖋️ I'm actively **writing blogs** on [Medium](https://medium.com/@ganeshhemanth999).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
